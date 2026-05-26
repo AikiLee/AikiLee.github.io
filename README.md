@@ -19,16 +19,15 @@
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| API Test Framework | RESTful API 自动化测试框架 | Python / Pytest / Requests |
-| JMeter Practice | 接口性能测试与压测报告 | JMeter / Linux |
-| IoT Test Design | 设备注册、认证、状态流转测试设计 | Docker / API / SQL |
+| Project | Description | Stack | Link |
+|---|---|---| --- |
+| API Test Framework | RESTful API 自动化测试框架 | Python / Pytest / Requests | https://github.com/AikiLee/python-api-test |
+| JMeter Practice | 接口性能测试与压测报告 | JMeter / Linux | 
+| IoT Test Design | 设备注册、认证、状态流转测试设计 | Docker / API / SQL | https://github.com/AikiLee/NanoMQ-Test | 
 
 ## Current Focus
 
-```text
-API Testing        ████████░░
-Performance Test   ██████░░░░
-Docker / Linux     ██████░░░░
-CI / GitHub Actions ████░░░░░░
+- API Testing         ████████░░
+- Performance Test    ██████░░░░
+- Docker / Linux      ██████░░░░
+- CI / GitHub Actions ████░░░░░░
