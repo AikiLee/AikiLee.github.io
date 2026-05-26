@@ -27,7 +27,9 @@
 
 ## Current Focus
 
-- API Testing         ████████░░
-- Performance Test    ██████░░░░
-- Docker / Linux      ██████░░░░
-- CI / GitHub Actions ████░░░░░░
+| Area | Progress |
+|---|---|
+| API Testing | `████████░░` |
+| Performance Test | `██████░░░░` |
+| Docker / Linux | `██████░░░░` |
+| CI / GitHub Actions | `████░░░░░░` |
